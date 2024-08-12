@@ -20,8 +20,8 @@ To view this project locally, follow these steps:
 1. Install [Node.js and NPM](https://nodejs.org/en/download/package-manager)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/GiuliaFreulon/multistep-form
-   cd multistep-form
+   git clone https://github.com/GiuliaFreulon/cinema-quiz
+   cd cinema-quiz
 3. Install the dependencies:
    ```bash
    npm install
